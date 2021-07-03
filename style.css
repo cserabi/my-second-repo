@@ -10,4 +10,5 @@ p{
 .gallery img{
   width:32%;
   margin:auto;
+  padding:4px;
 }
