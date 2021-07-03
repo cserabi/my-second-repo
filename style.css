@@ -12,3 +12,12 @@ p{
   margin:auto;
   padding:4px;
 }
+.service {
+  width:100%;
+  height: 200px;
+  background-color: darkgreen;
+}
+.service h1{
+    background-color: chartreuse;
+    color:darkblue;
+}
