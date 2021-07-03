@@ -23,3 +23,14 @@ p{
     text-align: center;
     padding: 20px;
 }
+
+.feature
+{
+  background-color:chartreuse ;
+}
+.feature  div{
+  width:30%;
+  background-color:darkgray ;
+  color:rgb(0, 56, 82);
+
+}
