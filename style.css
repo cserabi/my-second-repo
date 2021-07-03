@@ -27,10 +27,51 @@ p{
 .feature
 {
   background-color:chartreuse ;
+  width: auto;
+  height: 400px;
 }
-.feature  div{
+.feature h2
+{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  
+}
+.feature span{
+  color:red ;
+  font-size: 20px;
+  font-weight: 700;
+}
+.feature small
+{
+  font-size: 18px;
+  color:green;
+}
+.feature  .one{
   width:30%;
-  background-color:darkgray ;
+  background-color:rgb(255, 255, 255) ;
   color:rgb(0, 56, 82);
+  margin: 10px;
+  padding: 10px;
+  float:left;
+  border: 5px solid black;
 
+}
+
+.feature  .two{
+  width:30%;
+  background-color:rgb(255, 255, 255) ;
+  color:rgb(0, 56, 82);
+  margin: 10px;
+  padding: 10px;
+  float:left;
+  border: 5px dashed black;
+}
+.feature .three{
+  width:30%;
+  background-color:rgb(255, 255, 255) ;
+  color:rgb(0, 56, 82);
+  margin: 10px;
+  padding: 10px;
+  float:left;
+  border: 5px dotted black;
 }
